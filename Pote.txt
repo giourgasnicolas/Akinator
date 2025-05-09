@@ -1,0 +1,12 @@
+11 Choisis un Rafiki
+? 10 2 At-il une calvitie
+? 4 5 Habite-t-il à Huy
+= Francois
+? 6 7 Fait-il des tours de magie
+? 8 9 Possède-t-il une douche commune
+= Maximilien
+= Baptiste
+= Nicolas
+= Antoine
+? 3 11 Mara
+= Loic
